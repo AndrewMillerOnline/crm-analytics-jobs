@@ -62,6 +62,8 @@ MCIC Vermont|https://www.mcic.com/work-with-us/|Insurance
 
 ## O
 
+|Company|Website|Industry|
+|---|---|---|
 O'Reilly Auto Parts|https://corporate.oreillyauto.com/onlineapplication/careerpage/corp|Retail
 
 ## P
@@ -88,6 +90,8 @@ Steampunk|https://steampunk.com/careers/|Consulting
 
 ## T
 
+|Company|Website|Industry|
+|---|---|---|
 The Transformation Group|https://thetransformationgroup.io/index.html#careers|Consulting
 
 
@@ -97,6 +101,8 @@ The Transformation Group|https://thetransformationgroup.io/index.html#careers|Co
 
 ## W
 
+|Company|Website|Industry|
+|---|---|---|
 Wave6|https://wave6.com/about-us/careers/|Consulting
 
 ## X
