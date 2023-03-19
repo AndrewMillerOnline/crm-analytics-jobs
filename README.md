@@ -5,81 +5,22 @@ This list exists as a resource for finding your next CRM Analytics job.  The com
 Tips:
 - HR/hiring managers seem to have trouble keeping up with all the different name changes (not that I can really blame them!) so be sure to search for `Einstein Analytics`, `Tableau CRM`, and `CRM Analytics` when looking for current openings.  
 
-## A
 
 |Company|Website|Industry|
 |---|---|---|
+3M|https://www.3m.com/3M/en_US/careers-us/|Manufacturing
 Aflac|https://careers.aflac.com/|Insurance
-
-## B
-
-## C
-
-|Company|Website|Industry|
-|---|---|---|
 Capgemini|https://www.capgemini.com/careers/|Consulting
 Cushman & Wakefield|https://careers.cushmanwakefield.com/global/en|Real Estate
-
-## D
-
-|Company|Website|Industry|
-|---|---|---|
 Deloitte|https://www2.deloitte.com/us/en/careers/careers.html|Consulting
-
-## E
-
-## F
-
-|Company|Website|Industry|
-|---|---|---|
 Fidelity Investments|https://jobs.fidelity.com/|Finance
-
-## G
-
-## H
-
-## I
-
-|Company|Website|Industry|
-|---|---|---|
 IBM|https://www.ibm.com/careers/us-en/search/|Tech
+IDeaS|https://ideas.com/about/careers/|Tech
 Indeed|https://www.indeed.jobs/|Tech
-
-## J
-
-## K
-
-## L
-
-## M
-
-|Company|Website|Industry|
-|---|---|---|
 |Marvin|https://www.marvin.com/careers|Manufacturing|
 MCIC Vermont|https://www.mcic.com/work-with-us/|Insurance
-
-## N
-
-## O
-
-|Company|Website|Industry|
-|---|---|---|
 O'Reilly Auto Parts|https://corporate.oreillyauto.com/onlineapplication/careerpage/corp|Retail
-
-## P
-
-|Company|Website|Industry|
-|---|---|---|
 Philips|https://www.careers.philips.com/na/en|Multiple
-
-## Q
-
-## R
-
-## S
-
-|Company|Website|Industry|
-|---|---|---|
 SAIC|https://jobs.saic.com/|Consulting
 Salesforce|https://www.salesforce.com/company/careers/|Tech
 Smith & Nephew|https://www.smith-nephew.com/careers/|Healthcare
@@ -87,26 +28,6 @@ Softcrylic|https://www.softcrylic.com/careers/|Consulting
 Spotify|https://www.lifeatspotify.com/jobs|Tech
 SpringML|https://www.springml.com/company/careers/|Consulting
 Steampunk|https://steampunk.com/careers/|Consulting
-
-## T
-
-|Company|Website|Industry|
-|---|---|---|
 The Transformation Group|https://thetransformationgroup.io/index.html#careers|Consulting
-
-
-## U
-
-## V
-
-## W
-
-|Company|Website|Industry|
-|---|---|---|
+UPS|https://www.jobs-ups.com/|Logistics
 Wave6|https://wave6.com/about-us/careers/|Consulting
-
-## X
-
-## Y
-
-## Z
