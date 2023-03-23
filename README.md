@@ -1,9 +1,17 @@
 # CRM Analytics Jobs
 
+## About
+
 This list exists as a resource for finding your next CRM Analytics job.  The community can sometimes feel small and compared to the number of Tableau or Power BI jobs available, it definitely is.  However, there are still a lot of great companies out there looking for CRM Analytics experts.
 
 Tips:
-- HR/hiring managers seem to have trouble keeping up with all the different name changes (not that I can really blame them!) so be sure to search for `Einstein Analytics`, `Tableau CRM`, and `CRM Analytics` when looking for current openings.  
+- HR/hiring managers seem to have trouble keeping up with all the different name changes (not that I can really blame them!) so be sure to search for `Einstein Analytics`, `Tableau CRM`, `TCRM`, `CRM Analytics`, and `CRMA` when looking for current openings.
+
+## Contributing
+
+Want to add a company to this list?  Check out the contribution guide for more information.
+
+## Company List
 
 
 |Company|Website|Industry|
@@ -14,6 +22,7 @@ Capgemini|https://www.capgemini.com/careers/|Consulting
 Cushman & Wakefield|https://careers.cushmanwakefield.com/global/en|Real Estate
 Deloitte|https://www2.deloitte.com/us/en/careers/careers.html|Consulting
 Fidelity Investments|https://jobs.fidelity.com/|Finance
+General Mills|https://careers.generalmills.com/careers/|Consumer Packaged Goods
 IBM|https://www.ibm.com/careers/us-en/search/|Tech
 IDeaS|https://ideas.com/about/careers/|Tech
 Indeed|https://www.indeed.jobs/|Tech
