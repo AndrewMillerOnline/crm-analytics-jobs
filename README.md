@@ -38,5 +38,6 @@ Spotify|https://www.lifeatspotify.com/jobs|Tech
 SpringML|https://www.springml.com/company/careers/|Consulting
 Steampunk|https://steampunk.com/careers/|Consulting
 The Transformation Group|https://thetransformationgroup.io/index.html#careers|Consulting
+Traveler's Insurance|https://careers.travelers.com/|Insurance
 UPS|https://www.jobs-ups.com/|Logistics
 Wave6|https://wave6.com/about-us/careers/|Consulting
